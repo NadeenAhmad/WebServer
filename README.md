@@ -8,4 +8,5 @@
 * You will find a seperate directory on your local host for each client containing this client's dowloads
 * In the console you will find the HTTP Response as well so if an item is not found you will find an error 404 
 * If you want to use this project change the directory paths to your own 
-* Here is a demo of what your website should look like when you run this project
+* Here is a demo of what your website should look like when you run this project  
+<img src="https://raw.githubusercontent.com/NadeenAhmad/WebServer/master/image1.JPG"  width="500">
